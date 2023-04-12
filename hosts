@@ -1,0 +1,204 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+
+
+127.0.0.1 www.1001jogos.pt
+127.0.0.1 www.brincar.pt
+127.0.0.1 poki.pt
+127.0.0.1 www.miniclip.com
+127.0.0.1 www.ojogos.com.br
+127.0.0.1 www.clickjogos.com.br
+127.0.0.1 www.zylom.com
+127.0.0.1 www.cartoonnetwork.pt
+127.0.0.1 mrjogos.uol.com.br
+127.0.0.1 jogosonline.uol.com.br
+127.0.0.1 www.jogos360.com.br
+127.0.0.1 www.terra.com.br
+127.0.0.1 www.innogames.com
+127.0.0.1 www.gamedesire.com
+127.0.0.1 www.pacogames.com
+127.0.0.1 king.com
+127.0.0.1 levelupgames.uol.com.br
+127.0.0.1 www.1001jogos.pt
+127.0.0.1 www.skylanders.com
+127.0.0.1 www.cartoonnetwork.com.br
+127.0.0.1 www.jogalo.com
+127.0.0.1 www.zigiz.com
+127.0.0.1 www.pokemon.com
+127.0.0.1 www.baixaki.com.br
+127.0.0.1 games.kboing.com.br
+127.0.0.1 www.gamesx.com.br
+127.0.0.1 www.playspace.com
+127.0.0.1 www.ludijogos.com
+127.0.0.1 www.paysafecard.com
+127.0.0.1 jogos.disney.com.br
+127.0.0.1 www.funnygames.pt
+127.0.0.1 www.frivjogosonline.com.br
+127.0.0.1 www.dinheirovivo.pt
+127.0.0.1 www.jogosonlinegratis.org
+127.0.0.1 www.jogosjogos.pt
+127.0.0.1 www.zigiz.com
+127.0.0.1 www.jogos123.net
+127.0.0.1 pt.casinogames77.com
+127.0.0.1 www.gogy.com
+
+127.0.0.1 www.gamesgames.com
+127.0.0.1 www.bigfishgames.com
+127.0.0.1 www.kongregate.com
+127.0.0.1 www.addictinggames.com
+127.0.0.1 www.arkadium.com
+127.0.0.1 poki.com
+127.0.0.1 www.pogo.com
+127.0.0.1 www.royalgames.com
+127.0.0.1 zone.msn.com
+127.0.0.1 games.aarp.org
+127.0.0.1 www.bgames.com
+127.0.0.1 www.crazygames.com
+127.0.0.1 www.csonline2.net
+127.0.0.1 www.csonline.com.br
+127.0.0.1 www.clickjogos.com.br
+127.0.0.1 www.sitecs.net
+127.0.0.1 cso.wikia.com
+127.0.0.1 tw.beanfun.com
+127.0.0.1 www.silvergames.com
+127.0.0.1 www.xvideos.xom
+127.0.0.1 www.porntube.com
+127.0.0.1 www.dinotube.com
+127.0.0.1 pt.pornhub.com
+127.0.0.1 www.hotxxxweb.com
+127.0.0.1 xhamster.com
+127.0.0.1 xporner.net
+127.0.0.1 coffetube.org
+127.0.0.1 www.porntrex.com
+127.0.0.1 www.xnxx.com
+127.0.0.1 www.youporn.com
+127.0.0.1 www.3movs.com
+127.0.0.1 ewporno.com
+127.0.0.1 www.reddit.com
+127.0.0.1 m.jogos360.com.br
+127.0.0.1 jogos360.com.br
+127.0.0.1 www.3dtuning.com
+127.0.0.1 www.friv.com
+127.0.0.1 www.bubblebox.com
+127.0.0.1 www.papajogos.com.br
+127.0.0.1 www.microjogos.com
+127.0.0.1 pt.y8.com
+127.0.0.1 www.kongregate.com
+127.0.0.1 www.onlinegames.net
+127.0.0.1 gameforge.com
+127.0.0.1 jayisgames.com
+127.0.0.1 armorgames.com
+127.0.0.1 igkids.ig.com.br
+127.0.0.1 passatempo.ig.com.br
+127.0.0.1 www.sitedejogosonline.com.br
+127.0.0.1 www.freeonlinegames.com
+127.0.0.1 www.netjogosonline.com.br
+127.0.0.1 www.jogatina.com
+127.0.0.1 www.sitedegames.com
+127.0.0.1 poki.com.br
+127.0.0.1 kogama.com.br
+127.0.0.1 www.kogama.com
+127.0.0.1 www.epicgames.com
+127.0.0.1 www.war-attack.com
+127.0.0.1 www.asr-games.net
+127.0.0.1 www.lfs.net
+127.0.0.1 voxiom.io/#xruYJ
+127.0.0.1 voxiom.io
+127.0.0.1 store.steampowered.com
+127.0.0.1 www.steampowered.com
+127.0.0.1 help.steampowered.com
+127.0.0.1 www.crazygames.com.br
+127.0.0.1 classic.minecraft.net
+127.0.0.1 www.joguix.com
+127.0.0.1 lagged.com
+127.0.0.1 gamaverse.com.br
+127.0.0.1 www.bebitu.com
+127.0.0.1 zodigames.com
+127.0.0.1 entertaininggames.club
+127.0.0.1 playvalorant.com
+127.0.0.1 www.epicgames.com
+127.0.0.1 play.euw.leagueoflegends.com
+127.0.0.1 www.ea.com
+127.0.0.1 play-cs.com
+127.0.0.1 blog.counter-strike.net
+127.0.0.1 www.jogosfas.com
+127.0.0.1 www.minijogos.com.br
+127.0.0.1 down-cs.su
+127.0.0.1 playminigames.ru
+127.0.0.1 www.cybersports.lt
+127.0.0.1 www.leagueoflegends.com
+127.0.0.1 www.bluestacks.com
+127.0.0.1 cswarzone.com
+127.0.0.1 www.csdownload.lt
+127.0.0.1 idownloadcs16.weebly.com
+127.0.0.1 cswarzone.eu
+127.0.0.1 www.downloadcs.net
+127.0.0.1 www.csdownload.lt/counter-strike-1.6-warzone-download/
+127.0.0.1 www.jogos360friv.com
+127.0.0.1 www.happymod.cloud
+127.0.0.1 steprimo.com
+127.0.0.1 www.g2a.com
+127.0.0.1 gamerant.com
+127.0.0.1 www.pcgamesn.com
+127.0.0.1 playkey.net
+127.0.0.1 crossout.net
+127.0.0.1 www.gamepix.com
+127.0.0.1 jogojogar.com
+127.0.0.1 www.callofduty.com
+127.0.0.1 www.diabotical.com
+127.0.0.1 krunker.io
+127.0.0.1 www.mmos.com.br
+127.0.0.1 jogosonlinegratis.blog.br
+127.0.0.1 ww1.gamesk12.com
+0.0.0.0 a-0001.a-msedge.net
+0.0.0.0 a-0002.a-msedge.net
+0.0.0.0 a-0003.a-msedge.net
+0.0.0.0 a-0001.dc-msedge.net
+0.0.0.0 a-msedge.net
+0.0.0.0 store-images.s-microsoft.com
+0.0.0.0 storecatalogrevocation.storequality.microsoft.com
+0.0.0.0 storeedgefd.dsx.mp.microsoft.com
+127.0.0.1 www.fanfreegames.com
+127.0.0.1 fanfreegames.com
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
